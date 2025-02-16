@@ -249,3 +249,4 @@ class connectMySql:
         result = self.updating_data(sql=sql, dbname=dbname, parameters=parameters)
 
         return result
+#SIEMA
